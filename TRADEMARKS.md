@@ -1,34 +1,30 @@
-# openOMSI trademarks and project identity
+# H0Launcher trademarks and project identity
 
 ## Creator and marks
 
-The **openOMSI** name and the original project logos are marks of **usonskyyyy**,
-who created the project's original codebase. Later contributions remain credited
+The **H0Launcher** name and the original project logos are marks of **h0nd44**,
+who created the re-work of **openOMSI**. Later contributions remain credited
 to their respective authors.
 
 This notice does not claim that these marks are registered trademarks.
 
 ## Official organization
 
-The official organization is **openOMSI.org**, available on GitHub as
-[`openOMSI-org`](https://github.com/openOMSI-org). It was previously named
-`openOMSI-Project`.
-
 The official source repository is
-[`openOMSI-org/openOMSI`](https://github.com/openOMSI-org/openOMSI).
+[`h0nd44/H0Launcher`](github.com/h0nd44/H0Launcher).
 An organization or repository with a similar name is not made official merely
 by using that name.
 
 ## Use of the name and logos
 
-The source-code license does not grant permission to use the openOMSI name or
-logos to imply official status, sponsorship or endorsement by usonskyyyy or the
+The source-code license does not grant permission to use the H0Launcher name or
+logos to imply official status, sponsorship or endorsement by h0nd44 or the
 official organization.
 
 You may refer truthfully to openOMSI in documentation, compatibility descriptions,
 reviews and attribution. Identify unofficial forks, modified distributions and
 services clearly as independent projects; do not present them as official
-openOMSI releases or services. For permission to use the marks as your own
+H0Launcher releases or services. For permission to use the marks as your own
 branding, contact the project through the official organization.
 
 These terms concern use as branding. They do not reduce the permissions granted
@@ -38,5 +34,5 @@ the rights to copy, modify and distribute the software.
 ## Third-party marks
 
 OMSI, OMSI 2 and other third-party names and logos belong to their respective
-owners. openOMSI is an independent project and is not affiliated with or endorsed
+owners. H0Launcher is an independent project and is not affiliated with or endorsed
 by the owners of OMSI or OMSI 2.
